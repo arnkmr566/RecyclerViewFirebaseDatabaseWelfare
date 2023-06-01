@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716548113814",
+    "project_id": "recyclerviewdatabasewelfare",
+    "storage_bucket": "recyclerviewdatabasewelfare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716548113814:android:1af41a71d01acc9c4649b7",
+        "android_client_info": {
+          "package_name": "com.example.recyclerviewdatabasewelfare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716548113814-qpehaqf43phafb40l6kiab4lktnpaje3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkR6bHC3KwB9X9i4E_q2Wnc9Jnai46nkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716548113814-qpehaqf43phafb40l6kiab4lktnpaje3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
